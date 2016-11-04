@@ -1,4 +1,4 @@
-# GIF
+# GIF Links
 
 * [Cloud Convert, m4v to gif](https://cloudconvert.com/m4v-to-gif)
 * [App: Giphy Capture](https://giphy.com/apps/giphycapture)
